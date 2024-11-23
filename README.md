@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnnieklz
+- 👋 Hi, I’m John Víctor
 - 👀 I’m interested in learning python lenguage
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
